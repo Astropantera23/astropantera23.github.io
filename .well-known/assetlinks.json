@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.astropantera23.twa",
-        "sha256_cert_fingerprints": ["A4:8B:26:39:77:E3:E2:E1:25:D4:F6:04:27:70:0C:AB:77:C6:50:7C:92:12:4B:1E:A3:12:22:B1:9F:CB:60:1C"]
+        "sha256_cert_fingerprints": ["DA:A4:A3:F6:89:3C:B6:41:52:83:7D:66:66:5F:DE:DF:57:D3:1F:E0:E1:92:B1:76:D8:BD:16:1A:D5:B0:A8:EC"]
       }
     }]
